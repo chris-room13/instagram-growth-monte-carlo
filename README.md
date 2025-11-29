@@ -18,15 +18,6 @@ Implemented entirely in a VS Code Jupyter Notebook
 
 Lightweight project using uv, numpy, and matplotlib
 
-📁 Project Structure
-instagram-growth-monte-carlo/
-│
-├── monte-carlo.ipynb     # Notebook with simulation code
-├── pyproject.toml         # Package/environment config (uv)
-├── README.md              # Documentation
-├── LICENSE                # MIT license
-└── .gitignore             # Ignores virtual envs, cache files, etc.
-
 🛠️ Installation & Setup
 
 Clone the repository:
